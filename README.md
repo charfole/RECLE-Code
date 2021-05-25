@@ -1,6 +1,6 @@
-# RECLE-Reproduction
+# RECLE-Code
 
-The code of this repository has reproduced the [RECLE](https://ieeexplore.ieee.org/document/9171289) paper. The main work is to debug the [code](https://github.com/tal-ai/RECLE) provided by the author, and add Chinese annotation for better understanding.
+The repository is the debugged code of [RECLE](https://ieeexplore.ieee.org/document/9171289) paper. The main work is to debug the [code](https://github.com/tal-ai/RECLE) provided by the author, and add Chinese annotation for better understanding.
 RECLE, the proposed model of this paper, has been successfully run in the local environment.
 
 ### Dependency
